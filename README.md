@@ -43,4 +43,5 @@ Once the program has begun, there are several options. You can play player vs pl
 Enjoy!
 
 ## Screenshot
-The splash screen: ![Splash Screen](https://github.com/mattingram0/Tabula/blob/master/images/splash.png).
+The splash screen: 
+![Splash Screen](https://github.com/mattingram0/Tabula/blob/master/images/splash.png).
